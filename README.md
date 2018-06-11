@@ -1,3 +1,3 @@
-# control_repo
+# pupppet_control_repo
 
 Hi Mom
